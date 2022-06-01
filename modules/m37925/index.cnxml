@@ -1,0 +1,56 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Performance and Film Schedule</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37925</md:content-id>
+  <md:title>Performance and Film Schedule</md:title>
+  <md:abstract/>
+  <md:uuid>0b29ac50-1b17-44c9-9525-0de04e7b1c62</md:uuid>
+</metadata>
+
+<content>
+    <table id="id1167805610029" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>Which scene or combination of scenes will you be performing or filming? <emphasis effect="italics">Describe the general sequence of events that will take place in the scene.</emphasis></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Who will be directing the scene and/or the film?</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>List each actor and the character that he/she will be playing in the scene.</entry>
+            <entry>1. 2.3.4. </entry>
+          </row>
+          <row>
+            <entry>What props/costumes will be needed for the scene? Who will be responsible to getting these?</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>When will your group rehearse for the performance? <emphasis effect="italics">Please set up a </emphasis><emphasis effect="italics">scheduled time</emphasis><emphasis effect="italics"> to rehearse with your group, as you will only have one class period to prepare.</emphasis></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Does your group plan on doing any filming for this project? <emphasis effect="italics"/><emphasis effect="italics">If so, please move on to the next question!</emphasis></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>What exactly will your group be filming for the project? <emphasis effect="italics">(i.e. the scene itself, a trailer, or a combination of scenes)</emphasis></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>What film equipment will you need, and how does your group plan on attaining this equipment? <emphasis effect="italics">(i.e. camera, editing software, etc.)</emphasis></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Where &amp; when do you plan on doing your filming? <emphasis effect="italics">Please be as specific as possible.</emphasis></entry>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

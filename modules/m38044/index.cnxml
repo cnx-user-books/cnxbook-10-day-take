@@ -1,0 +1,51 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Group Contract Template</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38044</md:content-id>
+  <md:title>Group Contract Template</md:title>
+  <md:abstract/>
+  <md:uuid>e4414dca-8c43-49c7-bf4e-52032d58d8ec</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1167812177221">10 Day Take</para>
+    <para id="id1167796620572">Group Contract</para>
+    <table id="id1167816453141" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>Group Member Names:</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Group Leader:</emphasis>
+            </entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>
+              <emphasis effect="bold">Group Roles:</emphasis>
+              <emphasis effect="italics">- Describe each group member's role for this project</emphasis>
+            </entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Group Contract: <emphasis effect="italics">- What are the expectations of each group member?</emphasis><emphasis effect="italics">- What are the consequences should a group member not fulfill his/her duties?</emphasis>- How can a group member get fired? How many warnings? Does every other member have to agree, or is a majority vote?</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Group Brainstorming:<emphasis effect="italics">- Spend some time brainstorming with your group. </emphasis><emphasis effect="italics">- Jot down some of the most promising ideas for your original television program. </emphasis>- You will need to make a final decision and write a group pitch on Monday.</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Signatures:(Each group member must sign)</entry>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

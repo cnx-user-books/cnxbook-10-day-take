@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>PG-13 Guidelines</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37613</md:content-id>
+  <md:title>PG-13 Guidelines</md:title>
+  <md:abstract/>
+  <md:uuid>70e354ce-c461-4e98-be20-7da072a25b0d</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166267849152">
+      <emphasis effect="bold">All submissions must fit the</emphasis>
+      <emphasis effect="bold"> </emphasis>
+      <link url="http://www.mpaa.org/">
+        <emphasis effect="bold">Motion Picture Association of America</emphasis>
+      </link>
+      <emphasis effect="bold"> </emphasis>
+      <emphasis effect="bold">guidelines for a G, PG, or PG-13 rating.</emphasis>
+    </para>
+    
+    <table id="id1166264309873" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">PG-13 Rating Description</emphasis>PG-13 is a sterner warning to parents to determine for themselves the attendance in particular of their younger children as they might consider some material not suited for them. Parents, by the rating, are alerted to be very careful about the attendance of their under-teenage children.A PG-13 film is one which, in the view of the Rating Board, leaps beyond the boundaries of the PG rating in theme, violence, nudity, sensuality, language, or other contents, but does not quite fit within the restricted R category. Any drug use content will initially require at least a PG-13 rating. In effect, the PG-13 cautions parents with more stringency than usual to give special attention to this film before they allow their 12-year olds and younger to attend.If nudity is sexually oriented, the film will not be found in the PG-13 category. If violence is too rough or persistent, the film goes into the R (restricted) rating. A film's single use of one of the harsher sexually-derived words, though only as an expletive, shall initially require the Rating Board to issue that film at least a PG-13 rating. More than one such expletive must lead the Rating Board to issue a film an R rating, as must even one of these words used in a sexual context. These films can be rated less severely, however, if by a special vote, the Rating Board feels that a lesser rating would more responsibly reflect the opinion of American parents.PG-13 places larger responsibilities on parents for their children's movie going. The voluntary rating system is not a surrogate parent, nor should it be. It cannot, and should not, insert itself in family decisions that only parents can, and should, make. Its purpose is to give prescreening advance informational warnings, so that parents can form their own judgments. PG-13 is designed to make these parental decisions easier for films between PG and R.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>
