@@ -1,3 +1,55 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11330</md:content-id>  <md:title>10 Day Take</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>bd0f9e33-1cc2-4eed-9bd6-a8aabab96984</md:uuid>
-<md:slug>10-day-take</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Project Documents and Instructions</md:title>                                <col:content>                    <col:module document="m37546"/>                            <col:module document="m37605"/>                            <col:module document="m37601"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Project Related Resources and Links</md:title>                                <col:content>                    <col:module document="m37607"/>                            <col:module document="m37613"/>                            <col:module document="m37616"/>                            <col:module document="m37648"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Scaffolding and Activities</md:title>                                <col:content>                    <col:module document="m37918"/>                            <col:module document="m37920"/>                            <col:module document="m37925"/>                            <col:module document="m37974"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Assessment and Evaluation</md:title>                                <col:content>                    <col:module document="m37992"/>                            <col:module document="m37999"/>                            <col:module document="m38003"/>                            <col:module document="m38018"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Project Management Resources</md:title>                                <col:content>                    <col:module document="m38044"/>                            <col:module document="m38047"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Peter Abboud">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11330</md:content-id>
+    <md:title>10 Day Take</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>bd0f9e33-1cc2-4eed-9bd6-a8aabab96984</md:uuid>
+    <md:slug>10-day-take</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Project Documents and Instructions</md:title>
+      <col:content>
+        <col:module document="m37546"/>
+        <col:module document="m37605"/>
+        <col:module document="m37601"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Project Related Resources and Links</md:title>
+      <col:content>
+        <col:module document="m37607"/>
+        <col:module document="m37613"/>
+        <col:module document="m37616"/>
+        <col:module document="m37648"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Scaffolding and Activities</md:title>
+      <col:content>
+        <col:module document="m37918"/>
+        <col:module document="m37920"/>
+        <col:module document="m37925"/>
+        <col:module document="m37974"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Assessment and Evaluation</md:title>
+      <col:content>
+        <col:module document="m37992"/>
+        <col:module document="m37999"/>
+        <col:module document="m38003"/>
+        <col:module document="m38018"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Project Management Resources</md:title>
+      <col:content>
+        <col:module document="m38044"/>
+        <col:module document="m38047"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
